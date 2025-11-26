@@ -1,4 +1,4 @@
-# Not So Simple Java Calculator
+# Not So Simple Java Calculator - Learning Project
 
 Forked from [mikailsheikh/cogitolearning-examples](https://github.com/mikailsheikh/cogitolearning-examples)
 
